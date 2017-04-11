@@ -1,0 +1,2 @@
+Central Configuration server
+    Instead of a local configuration per deployed unit (i.e. microservice) we need a centralized management of configuration. We also need a configuration API that the microservices can use to fetch configuration information.
